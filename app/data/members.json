@@ -35,6 +35,15 @@
       "github": "davidops",
       "skills": ["Docker", "Kubernetes", "AWS"],
       "bio": "Automating everything that can be automated"
+    },
+    {
+      "id": 5,
+      "name": "Shaurya Shekhar",
+      "role": "Fresher",
+      "avatar": "https://avatars.githubusercontent.com/u/182816543?v=4",
+      "github": "shaurya949",
+      "skills": ["HTML", "CSS", "c/C++"],
+      "bio": "Passionate coding student exploring the art of problem-solving through code and creativity."
     }
   ]
 }
