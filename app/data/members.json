@@ -44,6 +44,15 @@
       "github": "shaurya949",
       "skills": ["HTML", "CSS", "c/C++"],
       "bio": "Passionate coding student exploring the art of problem-solving through code and creativity."
+    },
+    {
+      "id": 6,
+      "name": "Snehasis Ghosh",
+      "role": "Student at MAKAUT,WB  Btech CSE",
+      "avatar":"https://avatars.githubusercontent.com/u/185935753?v=4",
+      "github":"SnehasisGh0sh",
+      "skills": ["HTML", "CSS","Python"],
+      "bio": "Beginner"
     }
   ]
 }
