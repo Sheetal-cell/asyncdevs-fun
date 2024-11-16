@@ -16,28 +16,10 @@
       "avatar": "https://avatars.githubusercontent.com/u/121167506?v=4",
       "github": "Swpn0neel",
       "skills": ["Node.js", "React", "UI/UX"],
-      "bio": "Passionate about creating beautiful user interfaces"
+      "bio": "Passionate about creating beautiful user interfaces and experiences"
     },
     {
       "id": 3,
-      "name": "Priya Patel",
-      "role": "Backend Developer",
-      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=200&h=200",
-      "github": "priyacode",
-      "skills": ["Python", "Django", "PostgreSQL"],
-      "bio": "Solving complex backend challenges one line at a time"
-    },
-    {
-      "id": 4,
-      "name": "David Kim",
-      "role": "DevOps Engineer",
-      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&h=200",
-      "github": "davidops",
-      "skills": ["Docker", "Kubernetes", "AWS"],
-      "bio": "Automating everything that can be automated"
-    },
-    {
-      "id": 5,
       "name": "Shaurya Shekhar",
       "role": "Fresher",
       "avatar": "https://avatars.githubusercontent.com/u/182816543?v=4",
@@ -46,7 +28,7 @@
       "bio": "Passionate coding student exploring the art of problem-solving through code and creativity."
     },
     {
-      "id": 6,
+      "id": 4,
       "name": "Snehasis Ghosh",
       "role": "Student at MAKAUT,WB  Btech CSE",
       "avatar":"https://avatars.githubusercontent.com/u/185935753?v=4",
@@ -55,7 +37,7 @@
       "bio": "Beginner"
     },
     {
-      "id": 7,
+      "id": 5,
       "name": "Debangshu Das",
       "role": "Student at MAKAUT, WB (CSE)",
       "avatar": "https://avatars.githubusercontent.com/u/146982673?v=4",
