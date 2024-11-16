@@ -35,6 +35,16 @@
       "github": "davidops",
       "skills": ["Docker", "Kubernetes", "AWS"],
       "bio": "Automating everything that can be automated"
+    },
+    {
+      "id": 5,
+      "name": "Snehasis Ghosh",
+      "role": "Student at MAKAUT,WB  Btech CSE",
+      "avatar":"https://avatars.githubusercontent.com/u/185935753?v=4",
+      "github":"SnehasisGh0sh",
+      "skills": ["HTML", "CSS","Python"],
+      "bio": "Beginner"
     }
+  
   ]
 }
