@@ -38,6 +38,24 @@
     },
     {
       "id": 5,
+      "name": "Shaurya Shekhar",
+      "role": "Fresher",
+      "avatar": "https://avatars.githubusercontent.com/u/182816543?v=4",
+      "github": "shaurya949",
+      "skills": ["HTML", "CSS", "c/C++"],
+      "bio": "Passionate coding student exploring the art of problem-solving through code and creativity."
+    },
+    {
+      "id": 6,
+      "name": "Snehasis Ghosh",
+      "role": "Student at MAKAUT,WB  Btech CSE",
+      "avatar":"https://avatars.githubusercontent.com/u/185935753?v=4",
+      "github":"SnehasisGh0sh",
+      "skills": ["HTML", "CSS","Python"],
+      "bio": "Beginner"
+    },
+    {
+      "id": 7,
       "name": "Debangshu Das",
       "role": "Student at MAKAUT, WB (CSE)",
       "avatar": "https://avatars.githubusercontent.com/u/146982673?v=4",
