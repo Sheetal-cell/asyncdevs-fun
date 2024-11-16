@@ -6,7 +6,7 @@
       "role": "Developer Advocate & Technical Writer",
       "avatar": "https://avatars.githubusercontent.com/u/109217591?v=4",
       "github": "Arindam200",
-      "skills": [ "Next.js","React", "Node.js", "TypeScript", "GraphQL"],
+      "skills": ["Next.js", "React", "Node.js", "TypeScript", "GraphQL"],
       "bio": "Building scalable web applications with modern technologies"
     },
     {
@@ -53,6 +53,15 @@
       "github":"SnehasisGh0sh",
       "skills": ["HTML", "CSS","Python"],
       "bio": "Beginner"
+    },
+    {
+      "id": 7,
+      "name": "Debangshu Das",
+      "role": "Student at MAKAUT, WB (CSE)",
+      "avatar": "https://avatars.githubusercontent.com/u/146982673?v=4",
+      "github": "chromavisionmusic",
+      "skills": ["Python", "HTML", "CSS", "JavaScript"],
+      "bio": "Learning Web Development"
     }
   ]
 }
