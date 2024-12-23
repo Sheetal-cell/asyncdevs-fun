@@ -53,6 +53,15 @@
       "github": "pappu598",
       "skills": ["c++"],
       "bio": "Quick Learner"
-    }
+    },
+    {
+      "id": 7,
+      "name": "Tuhin Poddar",
+      "role": "Full-Stack Dev",
+      "avatar": "https://avatars.githubusercontent.com/u/132370086?v=4",
+      "github": "Tuhin114",
+      "skills": ["Next.js", "React", "TypeScript", "JavaScript", "C++"],
+      "bio": "Love to building products"
+    },
   ]
 }
