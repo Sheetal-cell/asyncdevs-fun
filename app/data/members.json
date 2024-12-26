@@ -55,6 +55,15 @@
       "bio": "Quick Learner"
     },
     {
+      "id": 33,
+      "name": "Sheetal Bajaj",
+      "role": "Student",
+      "avatar": "https://avatars.githubusercontent.com/u/183822317?v=4",
+      "github": "Sheetal-cell",
+      "skills": ["c++,web dev,DSA"],
+      "bio": " As Beginner"
+    },
+    {
       "id": 7,
       "name": "Tuhin Poddar",
       "role": "Full-Stack Dev",
